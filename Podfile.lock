@@ -1,0 +1,15 @@
+PODS:
+  - AFNetworking (1.3.4)
+  - Sparkle (1.14.0)
+
+DEPENDENCIES:
+  - AFNetworking
+  - Sparkle (~> 1.0)
+
+SPEC CHECKSUMS:
+  AFNetworking: cf8e418e16f0c9c7e5c3150d019a3c679d015018
+  Sparkle: ccd95233b12a3e3d4eeb55ff01dd4c8bb8188b07
+
+PODFILE CHECKSUM: 19ee213ae049eff52b0a30730e6b35f74c7653d8
+
+COCOAPODS: 1.1.1
